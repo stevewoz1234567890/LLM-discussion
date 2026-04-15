@@ -20,10 +20,12 @@ Curated notes and links on **LLM agents**, **frameworks** (LangChain, LangGraph)
 7. **[Plausible agent output vs trust (drift demo)](stories/recon-langchain-drift-trust-demo.md)** — LangChain quickstart where answers *look* fine while a trust signal flags drift; [reconai-langchain-quickstart](https://github.com/Trustbyrecon/reconai-langchain-quickstart).
 8. **[Stanford 2026 AI Index](stories/stanford-ai-index-2026.md)** — Curated synopsis of the HAI report (423 pp.): benchmarks vs capability, U.S.–China, adoption, responsible AI, hardware, labor, medicine; links to [landing page](https://hai.stanford.edu/ai-index/2026-ai-index-report) and [PDF](https://hai.stanford.edu/assets/files/ai_index_report_2026.pdf).
 9. **[Data center power to 2030 (Goldman Sachs)](stories/goldman-data-center-power-2030.md)** — Global DC electricity demand outlook (~1,350 TWh by 2030, +220% vs 2023, US vs RoW, US capacity to ~95 GW); [Goldman Sachs Research](https://www.goldmansachs.com/what-we-do/research) context.
+10. **[Mango — MongoDB in plain English](stories/mango-mongodb-natural-language-agent.md)** — Open-source agent (no LangChain): provider-agnostic LLM, tools, ChromaDB few-shot memory; `pip install mango-ai[anthropic]` + `mango` CLI; [FrancescoBellingeri/mango](https://github.com/FrancescoBellingeri/mango).
+11. **[Bordair — multimodal prompt injection](stories/bordair-prompt-injection-multimodal.md)** — Detection API + castle game; conversational vs technical attacks; HF dataset (62k+ samples); [bordair.io](https://bordair.io), [castle.bordair.io](https://castle.bordair.io).
 
 Entries **(3)** and **(4)** are **paraphrased chat**, not fact-checked claims.
 
-*Disclaimer: MESI—community note; job market—agentic-engineering-jobs.com; PQS—project docs (verify pricing/metrics); LangGraph/LangConnect—builder field report; Recon demo—third-party repo; micro-LLM stories—paraphrased chat; AI Index—synopsis; read the PDF for definitions; Goldman DC power—synopsis; verify in original GIR.*
+*Disclaimer: MESI—community note; job market—agentic-engineering-jobs.com; PQS—project docs (verify pricing/metrics); LangGraph/LangConnect—builder field report; Recon demo—third-party repo; micro-LLM stories—paraphrased chat; AI Index—synopsis; read the PDF for definitions; Goldman DC power—synopsis; verify in original GIR; Mango—third-party OSS; Bordair—builder field report + third-party product/dataset.*
 
 ## Adding material
 
