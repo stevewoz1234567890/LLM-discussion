@@ -2,4 +2,4 @@
 
 Notes are kept as **one markdown file per story** under [`stories/`](stories/).
 
-**→ [Browse all stories](stories/README.md)**
+**→ [Browse all stories](README.md#stories)**

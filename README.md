@@ -6,10 +6,10 @@ Curated notes and links on **LLM agents**, **frameworks** (LangChain, LangGraph)
 
 | Doc | What it is |
 |-----|------------|
-| **[stories/](stories/README.md)** | **Stories**—one file per topic; start here |
-| **[TIL.md](TIL.md)** | Short pointer to the stories index (keeps old links working) |
+| **[stories/](stories/)** | **Stories**—one markdown file per topic |
+| **[TIL.md](TIL.md)** | Short pointer (keeps old links working) |
 
-### Stories ([index](stories/README.md))
+### Stories
 
 1. **[MESI-style coherence for agents](stories/mesi-agent-coherence.md)** — Reducing redundant sync tokens when agents share artifacts (LangGraph `BaseStore`); paper and reference implementation linked.
 2. **[2026 agentic engineering job market](stories/agentic-engineering-langchain-2026.md)** — LangChain / LangGraph share and salary/geo patterns from [agentic-engineering-jobs.com](https://agentic-engineering-jobs.com) (591 listings; see their article for methodology).
@@ -23,6 +23,8 @@ Curated notes and links on **LLM agents**, **frameworks** (LangChain, LangGraph)
 
 Entries **(3)** and **(4)** are **paraphrased chat**, not fact-checked claims.
 
+*Disclaimer: MESI—community note; job market—agentic-engineering-jobs.com; PQS—project docs (verify pricing/metrics); LangGraph/LangConnect—builder field report; Recon demo—third-party repo; micro-LLM stories—paraphrased chat; AI Index—synopsis; read the PDF for definitions; Goldman DC power—synopsis; verify in original GIR.*
+
 ## Adding material
 
-Add a new **`stories/<short-slug>.md`** file, then link it from **[stories/README.md](stories/README.md)** and the numbered list above. Keep one narrative or source per file so diffs stay small and stories are easy to share.
+Add a new **`stories/<short-slug>.md`** file and a numbered entry in the **Stories** list above. Keep one narrative or source per file so diffs stay small and stories are easy to share.
