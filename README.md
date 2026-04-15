@@ -18,6 +18,8 @@ Curated notes and links on **LLM agents**, **frameworks** (LangChain, LangGraph)
 5. **[Pre-inference prompt quality (PQS)](stories/pqs-prompt-quality-langchain.md)** — LangChain `PQSCallbackHandler` scores prompts before LLM calls (multi-dimensional rubric); links to SDK and hosted API.
 6. **[LangGraph + LangConnect production stack](stories/langgraph-langconnect-production-stack.md)** — Next.js app, hosted LangGraph agent config, RAG on Cloud Run, Supabase OAuth, LangSmith/cost controls, Stripe + token economics (builder field report; [your-vehicle-ai.com](https://your-vehicle-ai.com)).
 7. **[Plausible agent output vs trust (drift demo)](stories/recon-langchain-drift-trust-demo.md)** — LangChain quickstart where answers *look* fine while a trust signal flags drift; [reconai-langchain-quickstart](https://github.com/Trustbyrecon/reconai-langchain-quickstart).
+8. **[Stanford 2026 AI Index](stories/stanford-ai-index-2026.md)** — Curated synopsis of the HAI report (423 pp.): benchmarks vs capability, U.S.–China, adoption, responsible AI, hardware, labor, medicine; links to [landing page](https://hai.stanford.edu/ai-index/2026-ai-index-report) and [PDF](https://hai.stanford.edu/assets/files/ai_index_report_2026.pdf).
+9. **[Data center power to 2030 (Goldman Sachs)](stories/goldman-data-center-power-2030.md)** — Global DC electricity demand outlook (~1,350 TWh by 2030, +220% vs 2023, US vs RoW, US capacity to ~95 GW); [Goldman Sachs Research](https://www.goldmansachs.com/what-we-do/research) context.
 
 Entries **(3)** and **(4)** are **paraphrased chat**, not fact-checked claims.
 
